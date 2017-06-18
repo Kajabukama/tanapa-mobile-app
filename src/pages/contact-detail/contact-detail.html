@@ -1,0 +1,51 @@
+<ion-header>
+
+    <ion-navbar>
+        <ion-title text-uppercase>{{contact.name}}</ion-title>
+    </ion-navbar>
+
+</ion-header>
+
+
+<ion-content no-padding>
+
+    <img src="{{contact.image}}">
+    <ion-item text-wrap>
+        <ion-avatar item-left>
+            <img src="assets/img/logo.png">
+        </ion-avatar>
+        <h2>{{contact.person}}</h2>
+        <p>You can contact {{contact.name}} chief Park Warden for various enquries in one of the listed ways below.</p>
+    </ion-item>
+
+    <ion-item>
+        <h2>{{contact.mail}}</h2>
+        <span>Fax {{contact.fax}}</span>
+    </ion-item>
+
+    <ion-list>
+        <ion-list-header>Office Telephone</ion-list-header>
+        <button ion-item *ngFor="let item of contact.phone">
+            <ion-icon name="call" item-left></ion-icon> 
+            {{ item }}
+            <ion-icon class="icon-grey" name="ios-arrow-forward" showWhen="android" item-right></ion-icon> 
+        </button>
+    </ion-list>
+
+    <ion-list>
+        <ion-list-header>Mobile Phone</ion-list-header>
+        <button ion-item *ngFor="let item of contact.mobile" (click)="callMobile(item)">
+            <ion-icon name="call" item-left></ion-icon> 
+            {{ item }}
+            <ion-icon class="icon-grey" name="ios-arrow-forward" showWhen="android" item-right></ion-icon>
+        </button>
+    </ion-list>
+
+    <ion-list>
+        <ion-list-header>Email Address</ion-list-header>
+        <ion-item>
+            <ion-icon name="mail" item-left></ion-icon> {{ contact.email }}
+        </ion-item>
+    </ion-list>
+
+</ion-content>

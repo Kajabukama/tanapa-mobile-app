@@ -1,0 +1,25 @@
+<ion-header>
+    <ion-navbar>
+        <button ion-button menuToggle icon-only>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+        <ion-title text-uppercase>Popular Activities</ion-title>
+        <ion-buttons end>
+            <button ion-button icon-only (click)="presentActionSheet()">
+                <ion-icon name="more"></ion-icon>
+            </button>
+        </ion-buttons>
+    </ion-navbar>
+</ion-header>
+
+<ion-content>
+    <ion-list text-wrap>
+        <ion-list-header text-uppercase>What you Can Do </ion-list-header>
+        <button ion-item *ngFor="let item of activityService.activities">
+      <ion-avatar item-left><img src="{{item.avatar}}"></ion-avatar>
+      <h2>{{item.name}}</h2>
+      <h3>{{item.info}}</h3>
+      <span *ngFor="let park of item.parks; let isLast = last">{{ park }} {{isLast ? '' : ', '}}</span>
+   </button>
+    </ion-list>
+</ion-content>

@@ -1,0 +1,36 @@
+<ion-menu [content]="content">
+    <!--<ion-header>
+        <ion-toolbar>
+            <ion-title text-uppercase>National Parks</ion-title>
+        </ion-toolbar>
+    </ion-header>-->
+
+    <ion-content class="content-sidemenu">
+        <div class="profile-section">
+            <div class="profile">
+                <img src="assets/img/logo.png" alt="">
+                <h2>TANAPA</h2>
+                <p>Tanzania National Parks</p>
+            </div>
+        </div>
+        <ion-list no-lines>
+            <button menuClose ion-item *ngFor="let page of this.parksService.all_zones" (click)="viewDetails(page.id, page.name)">
+            <ion-avatar item-left><img src="{{page.image}}"></ion-avatar>
+                {{page.name}}
+         </button>
+        </ion-list>
+
+        <ion-list no-lines>
+            <ion-list-header text-uppercase no-lines>Information</ion-list-header>
+            <button menuClose ion-item *ngFor="let page of pages" (click)="open(page)">
+         <ion-icon [name]="page.icon" item-left></ion-icon>
+        {{page.title}}
+      </button>
+        </ion-list>
+
+    </ion-content>
+
+</ion-menu>
+
+<!-- Disable swipe-to-go-back because it's poor UX to combine STGB with side menus -->
+<ion-nav [root]="rootPage" #content swipeBackEnabled="false"></ion-nav>

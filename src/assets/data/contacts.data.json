@@ -1,0 +1,189 @@
+[{
+        "id": 1,
+        "person": "Director General",
+        "name": "TANAPA Headquarter",
+        "image": "assets/img/lion.jpg",
+        "phone": ["+255272503471", "+255272504082"],
+        "email": ["info@tanzaniaparks.go.tz"],
+        "fax": "+255272508216",
+        "mail": "P.O Box 3134, Arusha, Tanzania",
+        "mobile": ["+255689062369", "+255767536140"]
+    },
+    {
+        "id": 2,
+        "person": "Chief Park Warden",
+        "name": "Serengeti National Park",
+        "image": "assets/img/serengeti.jpg",
+        "phone": ["+255272503471", "+255272504082"],
+        "email": "info@tanzaniaparks.go.tz",
+        "fax": "+255272508216",
+        "mail": "P.O.Box 3134 - Arusha",
+        "mobile": ["+255689062243", "+255767536125"]
+    },
+    {
+        "id": 3,
+        "person": "Chief Park Warden",
+        "name": "Tarangire National Park",
+        "image": "assets/img/tarangire.jpg",
+        "phone": ["+2552531280", "+2552531281"],
+        "email": "tnp@tanzaniaparks.go.tz",
+        "fax": "+2552530246",
+        "mail": "P.O.Box 3134 - Arusha",
+        "mobile": ["+255689062248", "+255767536139"]
+    },
+    {
+        "id": 4,
+        "person": "Chief Park Warden",
+        "name": "Lake Manyara National Park",
+        "image": "assets/img/manyara.jpg",
+        "phone": ["+2552539112", "+255272503471"],
+        "email": ["manyara@tanzaniaparks.go.tz"],
+        "fax": "+2552539271",
+        "mail": "P.O.Box 12  - Monduli Mto wa Mbu ",
+        "mobile": ["+255689062294", "+255767536137"]
+    },
+    {
+        "id": 5,
+        "person": "Chief Park Warden",
+        "name": "Kilimanjaro National Park",
+        "image": "assets/img/kilimanjaro.jpg",
+        "phone": ["+2552756605", "+2552756602"],
+        "email": ["kinapa@tanzaniaparks.go.tz"],
+        "fax": "+2552756606",
+        "mail": "P.O.Box 96  -  Marangu",
+        "mobile": ["+255689062309", "+255767536134"]
+    },
+    {
+        "id": 6,
+        "person": "Chief Park Warden",
+        "name": "Saanane Island National Park ",
+        "image": "assets/img/saanane.jpg",
+        "phone": ["+255282540713"],
+        "email": ["saanane@tanzaniaparks.go.tz"],
+        "fax": "+2552756606",
+        "mail": "P.O.Box 11775 - Mwanza ",
+        "mobile": ["+255689062276", "+255767536124"]
+    },
+    {
+        "id": 7,
+        "person": "Chief Park Warden",
+        "name": "Mikumi National Park",
+        "image": "assets/img/mikumi.jpg",
+        "phone": ["+255232620498"],
+        "email": ["mikumi@tanzaniaparks.go.tz"],
+        "fax": "+255232620441",
+        "mail": "P.O.Box 62  Mikumi – Morogoro",
+        "mobile": ["+255689062334", "+255767536135"]
+    },
+    {
+        "id": 8,
+        "person": "Chief Park Warden",
+        "name": "Ruaha National Park",
+        "image": "assets/img/ruaha.jpg",
+        "phone": ["+255232620498"],
+        "email": ["ruaha@tanzaniaparks.go.tz"],
+        "fax": "+255232620441",
+        "mail": "P.O.Box 369 - Iringa",
+        "mobile": ["+255689062338", "+255767536129"]
+    },
+    {
+        "id": 9,
+        "person": "Chief Park Warden",
+        "name": "Udzungwa National Park",
+        "image": "assets/img/udzungwa.jpg",
+        "phone": ["+255232620224"],
+        "email": ["udzungwa@tanzaniaparks.go.tz"],
+        "fax": "+255232620293",
+        "mail": "P.O.Box 99 - Mang'ula",
+        "mobile": ["+255689062338", "+255767536129"]
+    },
+    {
+        "id": 10,
+        "person": "Chief Park Warden",
+        "name": "Gombe National Park",
+        "image": "assets/img/gombe.jpg",
+        "phone": ["+255272503471", "+255272504082"],
+        "email": ["chimps@tanzaniaparks.go.tz", "gombe@tanzaniaparks.go.tz"],
+        "fax": "+255272508216",
+        "mail": "P.O.Box 185 - Kigoma",
+        "mobile": ["+255689062303", "+255767536426"]
+    },
+    {
+        "id": 11,
+        "person": "Chief Park Warden",
+        "name": "Mkomazi National Park",
+        "image": "assets/img/mkomazi.jpg",
+        "phone": ["+255272503471", "+255272504082"],
+        "email": ["mkomazi@tanzaniaparks.go.tz"],
+        "fax": "+255272508216",
+        "mail": "P.O.Box 41 - Same Kilimanjaro",
+        "mobile": ["+255689062336", "+255767536132"]
+    },
+    {
+        "id": 12,
+        "person": "Chief Park Warden",
+        "name": "Rubondo Island National Park",
+        "image": "assets/img/rubondo.jpg",
+        "phone": ["+255282520720"],
+        "email": ["sitatunga@tanzaniaparks.go.tz"],
+        "fax": "+255272508216",
+        "mail": "P.O. Box 111  - Nkome Gate Geita",
+        "mobile": ["+255689062340", "+255767536123"]
+    },
+    {
+        "id": 13,
+        "person": "Chief Park Warden",
+        "name": "Mahale Mountains National Park",
+        "image": "assets/img/mahale.jpg",
+        "phone": ["+255272503471", "+255272504082"],
+        "email": ["sokwe@tanzaniaparks.go.tz"],
+        "fax": "+255272508216",
+        "mail": "P.O Box 1374, Kigoma",
+        "mobile": ["+255689062326", "+255767536127"]
+    },
+    {
+        "id": 14,
+        "person": "Chief Park Warden",
+        "name": "Arusha National Park",
+        "image": "assets/img/arusha.jpg",
+        "phone": ["+2552553995", "+2552553696"],
+        "email": ["arusha@tanzaniaparks.go.tz"],
+        "fax": "+2552553854",
+        "mail": "P.O. Box 3134, Arusha",
+        "mobile": ["+255689062363", "+255767536136"]
+    },
+    {
+        "id": 15,
+        "person": "Chief Park Warden",
+        "name": "Katavi National Park",
+        "image": "assets/img/katavi.jpg",
+        "phone": ["+255252820352", "+255252820213"],
+        "email": ["katavi@tanzaniaparks.go.tz"],
+        "fax": "+255252820213",
+        "mail": "P.O.Box 89, Mpanda",
+        "mobile": ["+255689062314", "+255767536128"]
+    },
+    {
+        "id": 16,
+        "person": "Chief Park Warden",
+        "name": "Saadani National Park",
+        "image": "assets/img/saadani.jpg",
+        "phone": ["+255272503471", "+255272504082"],
+        "email": ["saadani@tanzaniaparks.go.tz"],
+        "fax": "+255272508216",
+        "mail": "P.O.Box 133 - Pangani, Tanga",
+        "mobile": ["+255689062346", "+255767536133"]
+    },
+    {
+        "id": 17,
+        "person": "Chief Park Warden",
+        "name": "Kitulo National Park",
+        "image": "assets/img/kitulo.jpg",
+        "phone": ["+255272503471", "+255272504082"],
+        "email": ["kitulonp@tanzaniaparks.go.tz"],
+        "fax": "+255272508216",
+        "mail": "P.O.Box 1965 - Mbeya",
+        "mobile": ["+255689062322", "+255767536130"]
+    }
+
+]

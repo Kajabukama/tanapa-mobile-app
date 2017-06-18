@@ -1,0 +1,40 @@
+<ion-header>
+    <ion-toolbar>
+        <ion-title text-uppercase>What to Do</ion-title>
+        <ion-buttons start>
+            <button ion-button (click)="dismiss()">Cancel</button>
+        </ion-buttons>
+    </ion-toolbar>
+</ion-header>
+
+
+<ion-content>
+    <ion-item>
+        <ion-avatar item-left>
+            <img src="../../assets/img/logo.png">
+        </ion-avatar>
+        <h2>{{this.service.park.name}}</h2>
+        <span>Established in {{this.service.park.founded}}</span>
+    </ion-item>
+
+    <img src="{{this.service.park.image}}">
+    <ion-item no-lines>
+        <ion-icon name="pin" item-left large></ion-icon>
+        <h2>Location {{this.service.park.region}} Region</h2>
+        <p>Total area {{this.service.park.size}}</p>
+    </ion-item>
+    <div *ngFor="let elem of details">
+        <ion-list no-lines>
+            <ion-item text-wrap text-justify>
+                <p>{{elem.info}}</p>
+            </ion-item>
+        </ion-list>
+        <ion-list>
+            <button ion-item *ngFor="let item of elem.todo">
+                <ion-icon name="camera" item-left></ion-icon>
+                <p>{{item}}</p>
+            </button>
+        </ion-list>
+    </div>
+
+</ion-content>

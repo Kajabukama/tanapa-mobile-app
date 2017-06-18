@@ -1,0 +1,26 @@
+<ion-header>
+    <ion-navbar>
+        <button ion-button menuToggle icon-only>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+        <ion-title text-uppercase>List of Contacts</ion-title>
+    </ion-navbar>
+</ion-header>
+
+
+<ion-content>
+    <ion-searchbar [(ngModel)]="searchTerm" [formControl]="searchControl" (ionInput)="onSearch()">
+    </ion-searchbar>
+
+    <div *ngIf="searching" class="spinner-container">
+        <ion-spinner color="spinner-primary"></ion-spinner>
+    </div>
+    <ion-list no-lines>
+        <button ion-item *ngFor="let contact of this.contact.contacts" (click)="viewDetail(contact)">
+            <ion-avatar item-left><img src="{{contact.image}}"></ion-avatar>
+                <h2>{{contact.name}}</h2>
+                <h3>{{contact.mail}}</h3>
+                <span>{{contact.email}}</span>
+        </button>
+    </ion-list>
+</ion-content>

@@ -1,0 +1,58 @@
+<ion-header>
+
+    <ion-navbar>
+        <ion-title text-uppercase>{{park_name}}</ion-title>
+        <ion-buttons end>
+            <button ion-button icon-only>
+                <ion-icon name="more"></ion-icon>
+            </button>
+        </ion-buttons>
+    </ion-navbar>
+
+</ion-header>
+
+
+<ion-content>
+    <ion-item>
+        <ion-avatar item-left>
+            <img src="assets/img/logo.png">
+        </ion-avatar>
+        <h2>{{this.service.park.name}}</h2>
+        <span>Established in {{this.service.park.founded}}</span>
+    </ion-item>
+
+    <img src="{{this.service.park.image}}">
+    <ion-item no-lines>
+        <ion-icon name="pin" item-left large></ion-icon>
+        <h2>Location {{this.service.park.region}} Region</h2>
+        <p>Total area {{this.service.park.size}}</p>
+    </ion-item>
+    <ion-list>
+        <ion-card-header text-center no-padding>General Information</ion-card-header>
+        <ion-item text-wrap text-justify>
+            <p>{{this.service.park.info}}</p>
+        </ion-item>
+    </ion-list>
+
+    <ion-list no-lines>
+        <ion-card-header text-center no-padding>Park Ecology</ion-card-header>
+        <ion-item text-wrap text-justify>
+            <p>{{this.service.park.ecology}}</p>
+        </ion-item>
+    </ion-list>
+    <ion-list>
+        <button ion-item (click)="openVisit()">
+            <ion-icon name="time" item-left></ion-icon>
+            <h2>Best time to visit</h2>
+        </button>
+        <button ion-item (click)="openAccommodation()">
+            <ion-icon name="restaurant" item-left></ion-icon>
+            <h2>Accommodation</h2>
+        </button>
+
+        <button ion-item (click)="openTodo(this.service.park.id)">
+            <ion-icon name="eye" item-left></ion-icon>
+            <h2>What you can do</h2>
+        </button>
+    </ion-list>
+</ion-content>

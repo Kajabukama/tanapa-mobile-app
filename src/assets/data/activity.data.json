@@ -1,0 +1,81 @@
+[{
+        "name": "Mountain Climbing",
+        "info": "Offer Mountain Climbing and Hiking",
+        "parks": ["Kilimanjaro", "Arusha", "Udzungwa"],
+        "avatar": "assets/img/kilimanjaro.jpg"
+    },
+    {
+        "name": "Chimpanzee Tracking",
+        "info": "Offers Chimpanzee Viewing",
+        "parks": ["Gombe", "Mahale", "Rubondo"],
+        "avatar": "assets/img/gombe.jpg"
+    },
+    {
+        "name": "Rhino Viewing",
+        "info": "Offers Rhino Viewing",
+        "parks": ["Serengeti"],
+        "avatar": "assets/img/rhino.jpg"
+    },
+    {
+        "name": "Waterfall",
+        "info": "Offers Waterfall Spots",
+        "parks": ["Udzungwa", "Kitulo", "Kilimanjaro"],
+        "avatar": "assets/img/udzungwa.jpg"
+    },
+    {
+        "name": "Wild Flowers",
+        "info": "Famous For its Wild flowers",
+        "parks": ["Kitulo"],
+        "avatar": "assets/img/kitulo.jpg"
+    },
+    {
+        "name": "Fishing and Swimming",
+        "info": "For Sport fishing, swimming",
+        "parks": ["Mahale", "Gombe", "Saanane", "Rubondo", "Saadani"],
+        "avatar": "assets/img/saanane.jpg"
+    },
+    {
+        "name": "River and Lake Viewing",
+        "info": "Beautiful Rivers and Lakes",
+        "parks": ["Ruaha", "Katavi", "Saanane", "Rubondo", "Gombe", "Mahale"],
+        "avatar": "assets/img/ruaha.jpg"
+    },
+    {
+        "name": "Beach Sunbathing",
+        "info": "Beautiful Rivers and Lakes",
+        "parks": ["Saadani", "Gombe", "Mahale"],
+        "avatar": "assets/img/mahale.jpg"
+    },
+    {
+        "name": "Night Game Drive",
+        "info": "Best Night Game Experience",
+        "parks": ["Manyara"],
+        "avatar": "assets/img/manyara.jpg"
+    },
+    {
+        "name": "Horse Riding",
+        "info": "Provides the taste of Arusha town",
+        "parks": ["Arusha"],
+        "avatar": "assets/img/arusha.jpg"
+    },
+    {
+        "name": "Canoeing Safaris",
+        "info": "Superb Game viewing Experience",
+        "parks": ["Manyara", "Arusha"],
+        "avatar": "assets/img/arusha.jpg"
+    },
+    {
+        "name": "Game Drive",
+        "info": "Authentic Wild Africa",
+        "parks": ["Arusha", "Serengeti", "Ruaha", "Katavi", "Tarangire", "Rubondo", "Kitulo", "Mikumi", "Mkomazi"],
+        "avatar": "assets/img/north.jpg"
+    },
+    {
+        "name": "Bird Watching",
+        "info": "Bird lovers, abundant bird species",
+        "parks": ["Mkomazi"],
+        "avatar": "assets/img/mkomazi.jpg"
+    }
+
+
+]

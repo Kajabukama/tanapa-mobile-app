@@ -1,0 +1,305 @@
+[{
+        "id": 1,
+        "name": "Northern Circuit",
+        "image": "assets/img/north.jpg",
+        "info": "Serengeti National Park is undoubtedly the best-known wildlife sanctuary in the world, unequalled for its natural beauty and scientific value, it has the greatest concentration of plains game in Africa. The Serengeti National Park in Tanzania was established in 1952. It is home to the greatest wildlife spectacle on earth - the great migration of wildebeest and zebra. The resident population of lion, cheetah, elephant, giraffe, and birds is also impressive. There’s a wide variety of accommodation available, from luxury lodges to mobile camps. The park covers 5,700 sq miles, (14,763 sq km), it’s larger than Connecticut, with at most a couple hundred vehicles driving around.",
+        "location": "Northern Tanzania",
+        "parks": [{
+                "id": 1,
+                "name": "Arusha National Park",
+                "info": "The closest national park to Arusha town – northern Tanzania’s safari capital – Arusha National Park is a multi-faceted jewel, often overlooked by safarigoers, despite offering the opportunity to explore a beguiling diversity of habitats within a few hours.",
+                "ecology": "The entrance gate leads into shadowy montane forest inhabited by inquisitive blue monkeys and colourful turacos and trogons – the only place on the northern safari circuit where the acrobatic black-and-white colobus monkey is easily seen. In the midst of the forest stands the spectacular Ngurdoto Crater, whose steep, rocky cliffs enclose a wide marshy floor dotted with herds of buffalo and warthog.Further north, rolling grassy hills enclose the tranquil beauty of the Momela Lakes, each one a different hue of green or blue. Their shallows sometimes tinged pink with thousands of flamingos, the lakes support a rich selection of resident and migrant waterfowl, and shaggy waterbucks display their large lyre-shaped horns on the watery fringes. Giraffes glide across the grassy hills, between grazing zebra herds, while pairs of wide-eyed dik-dik dart into scrubby bush like overgrown hares on spindly legs.Although elephants are uncommon in Arusha National Park, and lions absent altogether, leopards and spotted hyenas may be seen slinking around in the early morning and late afternoon. It is also at dusk and dawn that the veil of cloud on the eastern horizon is most likely to clear, revealing the majestic snow-capped peaks of Kilimanjaro, only 50km (30 miles) distant. ",
+                "size": "552 sq.km",
+                "founded": 1960,
+                "region": "Arusha",
+                "image": "assets/img/arusha.jpg",
+                "mapfile": "assets/maps/arusha.svg",
+                "activities": [{
+                    "info": "It is a popular destination for day trip visitors who are about to embark from the town of Arusha on longer northern circuit safaris. The small national park includes the slopes, summit, and ash cone of Mt. Meru, the Momela Lakes, Ngurdoto Crater, and the lush highland forests that blanket its lower slopes. Game viewing around the Momela Lakes is at a laid-back and quiet pace, and while passing through the forest many visitors stop to search for troupes of rare colubus monkeys playing in the canopy.",
+                    "todo": ["Birding Safaris", "Cultural Tourism", "Mountain Climbing", "Walking Safaris", "Wildlife Safaris", "Camping Safaris", "Luxury Safaris", "Wedding Safaris"]
+                }],
+                "location": "Location: Northern Tanzania, northeast of Arusha town.",
+                "when": "To climb Mt Meru, June-February although it may rain in November.Best views of Kilimanjaro December-February.",
+                "accommodation": "Two lodges, two rest houses, camp sites, two mountain huts inside the park; more lodges at Usa River outside the park and many hotels and hostels in Arusha town."
+            },
+            {
+                "id": 2,
+                "name": "Mkomazi National Park",
+                "info": "Set below the verdant slopes of the spectacular Usambara and Pare Eastern Arc Mountain ranges and overseen by iconic snow – capped peak of Kilimanjaro, Mkomazi a virgin breathtaking beauty exhibiting unique natural treasures and immense sense of space - adds to the fulfillment of high visitor enjoyment expectations – a much needed bridge between northern circuit and coastal attractions.",
+                "ecology": "Mkomazi is vital refuge for two highly endangered species, the charismatic black rhino and sociable African wild dog, both of which were successfully reintroduced in the 1990s. Nomadic by nature, wild dog might be seen almost anywhere in the park, but black rhino are restricted to a fenced sanctuary, ensuring their safe keeping for future generations enjoyment and prosperity.Mkomazi supports several dry – country specialists species that are rare elsewhere in Tanzania; these include the spectacular fringe – eared oryx, with its long back – sweeping horns, and the handsome spiral – horned lesser kudu. Oddest of all is the gerenuk, a gazelle distinguished by its slender neck, bizarre alien – like head, and habit of standing tall on its hind legs stretch for acacia leaves that other browsers cannot reach.A game reserve since 1951, this new National Park takes its name from Pare tribe’s word for “scoop of water”, referring to little water. It is a fantastic destination for birdwatchers, with more than 450 avian species recorded, among them dry – country endemics such as the cobalt – chested vulturine guineafowl, other large ground birds such as ostrich, kori bustard, secretary bird, ground hornbill and some migratory species including Eurasian roller.",
+                "size": "3,245 sq.km",
+                "founded": 2008,
+                "region": "Kilimanjaro",
+                "image": "assets/img/mkomazi.jpg",
+                "mapfile": "assets/img/mkomazi-map.jpg",
+                "activities": [{
+                    "info": "Set below the verdant slopes of the spectacular Usambara and Pare Eastern Arc Mountain Ranges and overseen by iconic snow – capped peak of Kilimanjaro, Mkomazi is a virgin breathtaking beauty exhibiting unique natural treasures and immense sense of space – which adds to the fulfillment of high visitor’s enjoyment expectations – a much needed bridge between northern circuit and coastal attractions.",
+                    "todo": ["Birding Safaris", "Mountain Biking", "Wildlife Safaris", "Camping Safaris"]
+                }],
+                "location": "Northern Tanzania split between Kilimanjaro and Tanga administrative regions. The park also borders Tsavo west National Park in Kenya",
+                "when": "Late June – early September is best for large mammal and bird watching. Scenic beauty is at its peak March – June.",
+                "accommodation": "One semi – permanent tented camp near the Park headquarters. Few designated basic campsites where one must bring his/her camping gears and food. There are several small hotels and guest houses in Same town."
+            },
+            {
+                "id": 3,
+                "name": "Kilimanjaro National Park",
+                "info": "At 5896m Mt Kilimanjaro, Africa's highest mountain and one of the continent's magnificent sights, It has three main volcanic peaks, Kibo, Mawenzi, and Shira. The name itself Kilimanjaro is a mystery wreathed in clouds. It might mean Mountain of Light, Mountain of Greatness or Mountain of Caravans.Above the gently rolling hills and plateaux of northern Tanzania rises the snowy peak of Mt. Kilimanjaro, it’s slopes and glaciers shimmering above the rising clouds. Kilimanjaro is located near the town of Moshi and is a protected area, carefully regulated for climbers to enjoy without leaving a trace of their presence. The mountain’s ecosystems are as strikingly beautiful as they are varied and diverse. On the lowland slopes, much of the mountain is farmland, with coffee, banana, cassava, and maize crops grown for subsistence and cash sale. A few larger coffee farms still exist on the lower slopes, but much of the area outside the national park has been subdivided into small plots. Once inside the park, thick lowland forest covers the lower altitudes and breaks into alpine meadows once the air begins to thin. Near the peak, the landscape is harsh and barren, with rocks and ice the predominant features above a breathtaking African view.",
+                "ecology": "Climbing Mt. Kilimanjaro is the highlight of most visitors’ experiences in Tanzania. Few mountains can claim the grandeur, the breathtaking views of Amboseli National Park in Kenya, the Rift Valley, and the Masaai Steppe, that belongs to Kilimanjaro. Hiking on the ‘rooftop of Africa’ — the highest point on the continent at 5896 metres — is the adventure of a lifetime, especially because, if paced well, everyone from seasoned trekkers to first-time enthusiasts can scale the snowy peak. For more information, see the ‘Mountain Climbing‘ section under ‘Things to Do.Kilimanjaro.The name itself is a mystery wreathed in clouds.It might mean Mountain of Light,Mountain of Greatness or Mountain of Caravans.Or it might not.The local people,the Wachagga,don’ t even have a namefor the whole massif,only Kipoo(now known as Kibo) for the familiar snowy peak that stands imperious,overseer of the continent,the summit of Africa. Kilimanjaro,by any name,is a metaphor for the compelling beauty of East Africa.When you see it,you understand why.Not only is this the highest peak on the African continent;it is also the tallest free - standing mountain in the world,rising in breathtaking isolation from the surrounding coastal scrubland– elevation around 900 metres– to an imperious 5,895 metres(19, 336 feet).Kilimanjaro is one of the world’ s most accessible high summits,a beacon for than a walking stick,proper clothing and determination.And those who reach Uhuru Point,the actual summit,or Gillman’ s Point on the lip of the crater,will have earned their climbing certificates.And their memories.But there is so much more to Kili than her summit.The ascent of the slopes is a virtual climatic world tour,from the tropics to the Arctic.Even before you cross the national park boundary(at the 2, 700 m contour),the cultivated footslopes give way to lush montane forest,inhabited by elusive elephant,leopard, buffalo,the endangered Abbot’ s duiker,and other small antelope and primates.Higher still lies the moorland zone,where a cover of giant heather is studded with otherworldly giant lobelias.Above 4,000 m,a surreal alpine desert supports little life other than a few hardy mosses and lichen.Then,finally,the last vestigial vegetation gives way to a winter wonderland of ice and snow– and the magnificent beauty of the roof of the continent.",
+                "size": "1668 sq km",
+                "founded": 1973,
+                "region": "Kilimanjaro",
+                "image": "assets/img/kilimanjaro.jpg",
+                "mapfile": "assets/maps/kilimanjaro.svg",
+                "activities": [{
+                    "info": "At 5896m Mt Kilimanjaro, Africa's highest mountain and one of the continent's magnificent sights, It has three main volcanic peaks, Kibo, Mawenzi, and Shira. The name itself - Kilimanjaro is a mystery wreathed in clouds. It might mean Mountain of Light, Mountain of Greatness or Mountain of Caravans.",
+                    "todo": ["Birding Safaris", "Mountain Climbing", "Paragliding and Microflights", "Walking Safaris", "Camping Safaris"]
+                }],
+                "location": "Northern Tanzania, near the town of Moshi",
+                "when": "To climb Mt Meru, June-February although it may rain in November.Best views of Kilimanjaro December-February.",
+                "accommodation": "Huts and campsites on the mountain.Several hotels and campsites outside the park in the village of Marangu and town of Moshi."
+            },
+            {
+                "id": 4,
+                "name": "Lake Manyara National Park",
+                "info": "Stretching for 50km along the  base of the rusty-gold 600-metre high Rift Valley escarpment, Lake   Manyara is a scenic gem, with a setting extolled by Ernest  Hemingway as “the loveliest I had seen in Africa”.The compact game-viewing  circuit through Manyara offers a virtual microcosm of the Tanzanian safari  experience.From the entrance gate, the  road winds through an expanse of lush jungle-like groundwater forest where  hundred-strong baboon troops lounge nonchalantly along the roadside, blue  monkeys scamper nimbly between the ancient mahogany trees, dainty bushbuck  tread warily through the shadows, and outsized forest hornbills honk  cacophonously in the high canopy.",
+                "ecology": "Contrasting with the intimacy  of the forest is the grassy floodplain and its expansive views eastward, across  the alkaline lake, to the jagged blue volcanic peaks that rise from the endless  Maasai Steppes. Large buffalo, wildebeest and zebra herds congregate on these  grassy plains, as do giraffes – some so dark in coloration that they appear to  be black from a distance.Inland of the floodplain, a  narrow belt of acacia woodland is the favoured haunt of Manyara’s legendary  tree-climbing lions and impressively tusked elephants. Squadrons of banded  mongoose dart between the acacias, while the diminutive Kirk’s dik-dik forages  in their shade. Pairs of klipspringer are often seen silhouetted on the rocks  above a field of searing hot    springs that  steams and bubbles adjacent to the lakeshore in the far south of the park.Manyara provides the perfect  introduction to Tanzania’s birdlife. More than 400 species have been recorded,  and even a first-time visitor to Africa might reasonably expect to observe 100 of these in  one day. Highlights include thousands of pink-hued flamingos on their perpetual  migration, as well as other large waterbirds such as pelicans, cormorants and  storks",
+                "size": "648.7 sq.km",
+                "founded": 1960,
+                "region": "Arusha",
+                "image": "assets/img/manyara.jpg",
+                "mapfile": "assets/maps/manyara.svg",
+                "activities": [{
+                    "info": "Located beneath the cliffs of the Manyara Escarpment, on the edge of the Rift Valley, Lake Manyara National Park offers varied ecosystems, incredible bird life, and breathtaking views.",
+                    "todo": ["Birding Safaris", "Boating and Canoeing", "Horse and Camel Riding", "Mountain Biking", "Wildlife Safaris", "Camping Safaris", "Night Game Drives", "Wedding Safaris"]
+                }],
+                "location": " In northern Tanzania. The entrance gate lies 1.5 hours (126km/80 miles)  west of Arusha along a newly surfaced road, close to the ethnically diverse  market town of Mto wa Mbu.",
+                "when": "Dry season (July-October) for large mammals; Wet season (November-June) for bird watching, the waterfalls and canoeing.",
+                "accommodation": "One luxury treehouse-style camp, public bandas  and campsites inside the park. One luxury tented camp and three lodges perched on the Rift Wall outside the  park overlooking the lake. Several guesthouses and campsites in nearby Mto wa Mbu."
+            },
+            {
+                "id": 5,
+                "name": "Tarangire National Park",
+                "info": "Tarangire National Park has some of the highest population density of elephants as compared to anywhere in Tanzania, and its sparse vegetation, strewn with baobab and acacia trees, makes it a beautiful and distinctive location to visit.Located just a few hours drive from the town of Arusha, Tarangire is a popular stop for people travelling through the northern safari circuit on their way to Ngorongoro and the Serengeti. The park extends into two game controlled areas and the wildlife is allowed to move freely throughout.",
+                "ecology": "Before the rains, droves of gazelles, wildebeests, zebras, and giraffes migrate to Tarangire National Park’s scrub plains where the last grazing land still remains. Tarangire offers an unparalleled game viewing, and during the dry season elephants abound. Families of the pachyderms play around the ancient trunks of baobab trees and strip acacia bark from the thorn trees for their afternoon meal. Breathtaking views of the Maasai Steppe and the mountains in the south make a stopover at Tarangire a memorable experience.Herds of up to 300 elephants scratch the dry river bed for underground streams,while migratory wildebeest,zebra,buffalo,impala,gazelle,hartebeest and eland crowd the shrinking lagoons.It’ s the greatest concentration of wildlife outside the Serengeti ecosystem - a smorgasbord for predators– and the one place in Tanzania where dry - country antelope such as the stately fringe - eared oryx and peculiar long - necked gerenuk are regularly observed.During the rainy season,the seasonal visitors scatter over a 20,000 sq km(12, 500 sq miles) range until they exhaust the green plains and the river calls once more.But Tarangire’ s mobs of elephant are easily encountered,wet or dry.The swamps,tinged green year round,are the focus for 550 bird varieties,the most breeding species in one habitat anywhere in the world.On drier ground you find the Kori bustard,the heaviest flying bird;the stocking - thighed ostrich,the world’ s largest bird;and small parties of ground hornbills blustering like turkeys.More ardent bird - lovers might keep an eye open for screeching flocks of the dazzlingly colourful yellow - collared lovebird,and the somewhat drabber rufous - tailed weaver and ashy starling– all endemic to the dry savannah of north - central Tanzania.Disused termite mounds are often frequented by colonies of the endearing dwarf mongoose,and pairs of red - and - yellow barbet,which draw attention to themselves by their loud,clockwork - like duetting.Tarangire’ s pythons climb trees,as do its lions and leopards,lounging in the branches where the fruit of the sausage tree disguises the twitch of a tail.",
+                "size": "2,850 sq.km",
+                "founded": 1970,
+                "region": "Arusha",
+                "image": "assets/img/tarangire.jpg",
+                "mapfile": "assets/maps/tarangire.svg",
+                "activities": [{
+                    "info": "Tarangire National Park has some of the highest population density of elephants as compared to anywhere in Tanzania, and its sparse vegetation, strewn with baobab and acacia trees, makes it a beautiful and distinctive location to visit.",
+                    "todo": ["Balloon Safaris", "Birding Safaris", "Wildlife Safaris", "Camping Safaris", "Luxury Safaris", "Wedding Safaris"]
+                }],
+                "location": "118 km (75 miles) southwest of Arusha",
+                "when": "Year round but dry season (June - September) for sheer numbers of animals",
+                "accommodation": "Two lodges, one tented lodge, two luxury tented camps inside the park, another half-dozen exclusive lodges and tented camps immediately outside its borders.Several camp sites in and around the park."
+            },
+            {
+                "id": 6,
+                "name": "Serengeti National Park",
+                "info": "Serengeti National Park is undoubtedly the best-known wildlife sanctuary in the world, unequalled for its natural beauty and scientific value, it has the greatest concentration of plains game in Africa. The Serengeti National Park in Tanzania was established in 1952. It is home to the greatest wildlife spectacle on earth - the great migration of wildebeest and zebra. The resident population of lion, cheetah, elephant, giraffe, and birds is also impressive. There’s a wide variety of accommodation available, from luxury lodges to mobile camps. The park covers 5,700 sq miles, (14,763 sq km), it’s larger than Connecticut, with at most a couple hundred vehicles driving around.",
+                "ecology": "The Park can be divided into 3 sections. The popular southern/central part (Seronera Valley), is what the Maasai called the “serengit”, the land of endless plains. It’s classic savannah, dotted with acacias and filled with wildlife. The western corridor is marked by the Grumeti River, and has more forests and dense bush. The north, Lobo area, meets up with Kenya’s Masai Mara Reserve, is the least visited section.Two World Heritage Sites and two Biosphere Reserves have been established within the 30,000 km² region. It’s unique ecosystem has inspired writers from Ernest Hemingway to Peter Mattheissen, filmakers like Hugo von Lawick and Alan Root as well as numerous photographers and scientists - many of which have put their works at our disposal to create this website.The Serengeti ecosystem is one of the oldest on earth. The essential features of climate, vegetation and fauna have barely changed in the past million years. Early man himself made an appearance in Olduvai Gorge about two million years ago. Some patterns of life, death, adaptation and migration are as old as the hills themselves.It is the migration for which Serengeti is perhaps most famous. Over a million wildebeest and about 200,000 zebras flow south from the northern hills to the southern plains for the short rains every October and November, and then swirl west and north after the long rains in April, May and June. So strong is the ancient instinct to move that no drought, gorge or crocodile infested river can hold them back.The Wildebeest travel through a variety of parks, reserves and protected areas and through a variety of habitat. Join us to explore the different forms of vegetation and landscapes of the Serengeti ecosystem and meet some of their most fascinating inhabitants.",
+                "size": "14,763 sq.km",
+                "founded": 1959,
+                "region": "Mara",
+                "image": "assets/img/serengeti.jpg",
+                "mapfile": "assets/maps/serengeti.svg",
+                "activities": [{
+                    "info": "Serengeti National Park is undoubtedly the best-known wildlife sanctuary in the world, unequalled for its natural beauty and scientific value, it has the greatest concentration of plains game in Africa.",
+                    "todo": ["Balloon Safaris", "Birding Safaris", "Wildlife Safaris", "Camping Safaris", "Luxury Safaris", "Wedding Safaris"]
+                }],
+                "location": "Location: Northern Tanzania, northeast of Arusha town.",
+                "when": "All Year around, The dry season (from late June to September) offers the best wildlife viewing in general- with the wildebeest migration as its absolute highlight. The timing of the migration varies every year (the best chance of seeing it is during June and July) while the wildebeest calving is from late January to February.",
+                "accommodation": "Two lodges, two rest houses, camp sites, two mountain huts inside the park; more lodges at Usa River outside the park and many hotels and hostels in Arusha town."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Southern Circuit",
+        "image": "assets/img/south.jpg",
+        "info": "Ruaha national park is one of the few Tanzania’s famous wilderness area where one can have a rare experience of game viewing spiced up by the fascinating landscape. The park is rich of plants and animals such as Greater Kudu (Tragelaphus strepsiceros) which can not be found in any other national park. The park boasts of her almost untouched and unexplored ecosystem, making visitors’ safari experience very unique.The Great Ruaha River as other rivers like Mwagusi, Jongomero and Mzombe save as the life line of the park. During dry season, these rivers become mostly the main source of water for wildlife. There are few natural springs saving the same purpose.In the pick of dry season, elephants obtain water from dry sand rivers using their front feet and trunks. The remaining water falls along the Great Ruaha River are also important habitat for hippopotamus, fish and crocodiles.",
+        "location": "Southern Tanzania",
+        "parks": [{
+                "id": 1,
+                "name": "Mikumi National Park",
+                "info": "Mikumi is Tanzania’s fourth-largest national park. It’s also the most accessible from Dar es Salaam. With almost guaranteed wildlife sightings, it makes an ideal safari destination for those without much time.Since the completion of the paved road connecting the park gate with Dar es Salaam, Mikumi National Park has been slated to become a hotspot for tourism in Tanzania. Located between the Uluguru Mountains and the Lumango range, Mikumi is the fourth largest national park in Tanzania and only a few hours drive from Tanzania’s largest city. The park has a wide variety of wildlife that can be easy spotted and also well acclimatized to game viewing. Its proximity to Dar es Salaam and the amount of wildlife that live within its borders makes Mikumi National Park a popular option for weekend visitors from the city, or for business visitors who don’t have to spend a long time on an extended safari itinerary.Most visitors come to Mikumi National Park aiming to spot the ‘Big Five’ (cheetah, lion, elephant, buffalo, and rhino), and they are always not disappointed. Hippo pools provide close access to the mud-loving beasts, and bird-watching along the waterways is particularly rewarding. Mikumi National Park borders the Selous Game Reserve and Udzungwa National Park, and the three locations make a varied and pleasant safari circuit.",
+                "ecology": "Swirls of opaque mist hide the advancing dawn. The first shafts of sun decorate the fluffy grass heads rippling across the plain in a russet halo. A herd of zebras, confident in their camouflage at this predatory hour, pose like ballerinas, heads aligned and stripes merging in flowing motion.Mikumi National Park abuts the northern border of Africa’s biggest game reserve – the Selous – and is transected by the surfaced road between Dar es Salaam and Iringa. It is thus the most accessible part of a 75,000 square kilometre (47,000 square mile) tract of wilderness that stretches east almost as far as the Indian Ocean.The open horizons and abundant wildlife of the Mkata Floodplain, the popular centre piece of Mikumi, draws frequent comparisons to the more famous Serengeti Plains.Lions survey their grassy kingdom – and the zebra, wildebeest, impala and buffalo herds that migrate across it – from the flattened tops of termite mounds, or sometimes during the rains, from perches high in the trees. Giraffes forage in the isolated acacia stands that fringe the Mkata River, islets of shade favoured also by Mikumi’s elephants.Criss-crossed by a good circuit of game-viewing roads, the Mkata Floodplain is perhaps the most reliable place in Tanzania for sightings of the powerful eland, the world’s largest antelope. The equally impressive greater kudu and sable antelope haunt the miombo-covered foothills of the mountains that rise from the park’s borders.More than 400 bird species have been recorded, with such colourful common residents as the lilac-breasted roller, yellow-throated long claw and bateleur eagle joined by a host of European migrants during the rainy season. Hippos are the star attraction of the pair of pools situated 5km north of the main entrance gate, supported by an ever-changing cast of water-birds.",
+                "size": "3,230 sq.km",
+                "founded": 1964,
+                "region": "Morogoro",
+                "image": "assets/img/mikumi.jpg",
+                "mapfile": "assets/maps/mikumi.svg",
+                "activities": [{
+                    "info": "Since the completion of the paved road connecting the park gate with Dar es Salaam, Mikumi National Park has been slated to become a hotspot for tourism in Tanzania. Located between the Uluguru Mountains and the Lumango range, Mikumi is the fourth largest national park in Tanzania and only a few hours drive from Tanzania’s largest city. The park has a wide variety of wildlife that can be easy spotted and also well acclimatized to game viewing. Its proximity to Dar es Salaam and the amount of wildlife that live within its borders makes Mikumi National Park a popular option for weekend visitors from the city, or for business visitors who don’t have to spend a long time on an extended safari itinerary.",
+                    "todo": ["Birding Safaris", "Walking Safaris", "Wildlife Safaris", "Camping Safaris", "Night Game Drives"]
+                }],
+                "location": "283 km (175 miles) west of Dar es Salaam, north of Selous, and en route to Ruaha, Udzungwa and (for the intrepid) Katavi.",
+                "when": "Accessible all year round.",
+                "accommodation": "Two lodges, three luxury tented camps, three campsites.Guest houses in Mikumi town on the park border. One lodge is proposed at Mahondo and one permanent tented camp at Lumaaga"
+            },
+            {
+                "id": 2,
+                "name": "Ruaha National Park",
+                "info": "Ruaha national park is one of the few Tanzania’s famous wilderness area where one can have a rare experience of game viewing spiced up by the fascinating landscape. The park is rich of plants and animals such as Greater Kudu (Tragelaphus strepsiceros) which can not be found in any other national park. The park boasts of her almost untouched and unexplored ecosystem, making visitors’ safari experience very unique.The Great Ruaha River as other rivers like Mwagusi, Jongomero and Mzombe save as the life line of the park. During dry season, these rivers become mostly the main source of water for wildlife. There are few natural springs saving the same purpose. In the pick of dry season, elephants obtain water from dry sand rivers using their front feet and trunks. The remaining water falls along the Great Ruaha River are also important habitat for hippopotamus, fish and crocodiles.",
+                "ecology": "The park history dates back to 1910 when it was gazetted Saba Game Reserve by the Germany then the name was changed by British to Rungwa Game reseve in 1946. In 1964 the southern portion of the Game was gazetted as Ruaha national park and in 1974 a small section of South Eastern part of the Great Ruaha River was incorporated into the park. The name “Ruaha” originates from the Hehe word “Ruvaha”, which means “river”. Ruaha National Park is part of Rungwa-Kizigo –Muhesi ecosystem which covers more than 45000km2. In 2008 Usangu game Reserve and other important wetlands in Usangu basin have been annexed into the park, making it the largest park in Tanzania and East Africa with an area of about 20226 sq km.Ruaha National Park has a high diversity of plants and animals including elephants, buffalos, antelopes and some of rare and endangered species like wild dogs. The park serves as water shade both for wildlife and human being. This makes it to be economically significant as it supports agricultural activities down stream and contributes to hydro- electric power (HEP) for the country at Mtera and Kidatu dams.The park is one of the Tanzania birds’ paradise with more than 571species and some of them are known to be migrants from within and outside Africa. Migrating species from Europe, Asia, Australian rim and Madagascar have been recorded in the park. Species of interest in the park include Ruaha red-billed hornbill (Tokus ruahae) which is dominant in the area. The recently annexed wetland, the Usangu basin is one of the country’s important bird area (IBA) as recognized by Birdlife International. Though birds can be seen all the year around, the best time for bird watching is during the wet season.",
+                "size": "20,300 sq.km",
+                "founded": 1970,
+                "region": "Iringa",
+                "image": "assets/img/ruaha.jpg",
+                "mapfile": "assets/maps/ruaha.svg",
+                "activities": [{
+                    "info": "Ruaha national park is one of the few Tanzania’s famous wilderness area where one can have a rare experience of game viewing spiced up by the fascinating landscape. The park is rich of plants and animals such as Greater Kudu (Tragelaphus strepsiceros) which can not be found in any other national park. The park boasts of her almost untouched and unexplored ecosystem, making visitors’ safari experience very unique.",
+                    "todo": ["Birding Safaris", "Boating and Canoeing", "Walking Safaris", "Wildlife Safaris", "Budget Safaris", "Camping Safaris", "Luxury Safaris"]
+                }],
+                "location": "Location: Northern Tanzania, northeast of Arusha town.",
+                "when": "Best time to see predators and large mammals is during the dry season (mid May-December).",
+                "accommodation": "There are several accommodation facilities just outside the park: these are hill top lodge, Sunset lodge, Tandala tented camp to mention a few.There are several luxury tented camps operating in the park such as Jongomero, Kigelia, Mwagusi safari, Old Mdonya River, Kwihala and Flycatcher and one lodge namely Ruaha River lodge. These are privately owned."
+            },
+            {
+                "id": 3,
+                "name": "Udzungwa National Park",
+                "info": "Udzungwa is the largest and with most biodiversity and a chain of a dozen large forest-swathed mountains that rise majestically from the flat coastal scrub of eastern Tanzania. Known collectively as the Eastern Arc Mountains, this archipelago of isolated massifs has also been dubbed as the African Galapagos for its treasure-trove of endemic plants and animals, most familiarly being the delicate African violet.Brooding and primeval, the forests of Udzungwa seem positively enchanted: a verdant refuge of sunshine-dappled glades enclosed by 30-metre (100 foot) high trees, their buttresses layered with fungi, lichens, mosses and ferns.Udzungwa alone among the ancient ranges of the Eastern Arc has been accorded the national park status. It is also unique within Tanzania in that its closed-canopy forest spans altitudes of 250 metres (820 feet) to above 2,000 metres (6,560 ft) without interruption.",
+                "ecology": "Although not a conventional game viewing destination, Udzungwa is a magnet for hikers. An excellent network of forest trails includes the popular half-day ramble to Sanje Waterfall, which plunges 170 metres (550 feet) through a misty spray into the forested valley below.The more challenging two-night Mwanihana Trail leads to the high plateau, with its panoramic views over the surrounding sugar plantations, before ascending to Mwanihana peak, the second-highest point in the range.Ornithologists are attracted to Udzungwa for an avian wealth embracing more than 400 species, from the lovely and readily-located green-headed oriole to more than a dozen secretive Eastern Arc endemics.Four bird species are peculiar to Udzungwa, including the forest partridge, first discovered in 1991 and more closely related to an Asian genus than to any other African fowl.Of six primate species recorded, the Iringa red colobus and Sanje Crested Mangabey both occur nowhere else in the world – the latter, remarkably, remained undetected by biologists prior to 1979.Undoubtedly, this great forest has yet to reveal all its treasures: ongoing scientific exploration will surely add to its diverse catalogue of endemics.",
+                "size": "2,850 sq.km",
+                "founded": 1970,
+                "region": "Morogoro",
+                "image": "assets/img/udzungwa.jpg",
+                "mapfile": "assets/maps/udzungwa.svg",
+                "activities": [{
+                    "info": "Udzungwa is the largest and with most biodiversity and a chain of a dozen large forest-swathed mountains that rise majestically from the flat coastal scrub of eastern Tanzania. Known collectively as the Eastern Arc Mountains, this archipelago of isolated massifs has also been dubbed as the African Galapagos for its treasure-trove of endemic plants and animals, most familiarly being the delicate African violet.",
+                    "todo": ["Birding Safaris", "Mountain Biking", "Mountain Climbing", "Walking Safaris", "Wildlife Safaris", "Camping Safaris", "Luxury Safaris"]
+                }],
+                "location": "Five hours (350 km/215 miles) from Dar es Salaam; 65 kms (40 miles) southwest of Mikumi.",
+                "when": "Possible all year round although slippery during rainy seasons. The dry season is June-October before the short rains however be prepared for rain anytime.",
+                "accommodation": "There are several accommodation facilities just outside the park: these are hill top lodge, Sunset lodge, Tandala tented camp to mention a few.There are several luxury tented camps operating in the park such as Jongomero, Kigelia, Mwagusi safari, Old Mdonya River, Kwihala and Flycatcher and one lodge namely Ruaha River lodge. These are privately owned."
+            },
+            {
+                "id": 4,
+                "name": "Kitulo National Park",
+                "info": "Locals refer to the Kitulo Plateau as Bustani ya Mungu – The Garden of God – whereas botanists have dubbed it the Serengeti of Flowers, host to ‘one of the great floral spectacles of the world’.Kitulo is indeed a rare botanical marvel, home to a full 350 species of vascular plants, including 45 varieties of terrestrial orchids, which erupt into a riotous wildflower display of breathtaking scale and diversity during the main rainy season of late November to April.Perched at around 2,600 metres (8,500 ft) between the rugged peaks of the Kipengere, Poroto and Livingstone Mountains, the well-watered volcanic soils of Kitulo support the largest and the most important montane grassland community in Tanzania.Having its unique flower species remained wild, with birds singing and migrating to the highland forests, Kitulo Plateau National Park is latest and a new comer to Tanzania’s tourist attractive sites.Bustani ya Mungu (God’s Garden) is the visitors name given to this new park, the only of its kind in Africa where wild flowers, birds and harmonious grass eating mammals are dominating.",
+                "ecology": "Kitulo Plateau is perched between the rugged peaks of the Kipengere, Livingstone and Poroto Mountains in Southern Highlands of Tanzania. It is the site of one of the world’s great floral spectacles.The eminently hike-able park is carpeted in wildflowers for six months of the year, from November to April. There is a documented 350 species of wild flowers including lilies and fields of daisies.Although sparse in big game, this natural botanical garden is highly alluring to bird watchers who thrill to sightings of rare Denham’s bustard, the endangered blue swallow, mountain marsh widow, Njombe cisticola and Kipengere seedeater.Endemic species of butterfly, chameleon, lizard and frog further enhance the biological wealth of God’s Garden. Unique and the only of its kind in Africa for natural orchids and birds, this park has been gazetted last year set for tourists.Kitulo National Park stands alone, boasting of being the only tourist attractive site in the continent offering floristic visits than the traditional wildlife photographic holidays which most tourists to Tanzania are used to experience. Tourists from all corners of the world are now exposed to this park, and are expected to book their itineraries to this new park.There are about 400 plant species, most of them are wild flowers and other such attractive, natural plants, which no doubt at all, will attract visitors to go there. Recorded 45 endemic orchid species are found only in the park than any other part of the world. The park covers 413 kilometers of forest-land, dominated with plants and few wild animals which together form a natural habitat that is tourist attractive by itself. The park’s scenery is as comparable to the Biblical Garden of Eden, as most visitors there say. Added to its natural attractions and uniqueness, Kitulo Plateau is the natural resting site for intercontinental migrating birds during periods of the year on their way to Europe.It is only in this park where migrating Storks rest while flying from Cape Town in South Africa to Northern Europe.European White Storks and other species of Storks from Scandinavian countries via West Africa migrate to brood inside Kitulo Plateau on their way, flying across the European and African continents every year. These big, attractive birds stop in this park for some months and later continue with their long journey across the continent.Kitulo National Park is the only natural habitat area in Africa perched on the sky at a higher altitude than any known park in the continent.It is located 3,000 meters above sea level on the East African massif, much influenced by the eastern Rim of the Great Rift Valley which stretches from the Red Sea in Middle East across north and East Africa to Mozambique in Southern Africa.",
+                "size": "2,850 sq.km",
+                "founded": 1970,
+                "region": "Mbeya",
+                "image": "assets/img/kitulo.jpg",
+                "mapfile": "assets/maps/kitulo.svg",
+                "activities": [{
+                    "info": "Kitulo is indeed a rare botanical marvel, home to a full 350 species of vascular plants, including 45 varieties of terrestrial orchids, which erupt into a riotous wildflower display of breathtaking scale and diversity during the main rainy season of late November to April.",
+                    "todo": ["Birding Safaris", "Walking Safaris", "Wildlife Safaris", "Camping Safaris"]
+                }],
+                "location": "Southern Tanzania, south of Chimala town.",
+                "when": "Wildflower display peaks between December and April,the sunnier months of September to November are more comfortable for hiking but less rewarding to botanists.Conditions are cold and foggy from June to August.",
+                "accommodation": "Two lodges, two rest houses, camp sites, two mountain huts inside the park; more lodges at Usa River outside the park and many hotels and hostels in Arusha town."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Eastern Circuit",
+        "image": "assets/img/east.jpg",
+        "info": "Set below the verdant slopes of the spectacular Usambara and Pare Eastern Arc Mountain ranges and overseen by iconic snow – capped peak of Kilimanjaro, Mkomazi a virgin breathtaking beauty exhibiting unique natural treasures and immense sense of space - adds to the fulfillment of high visitor enjoyment expectations – a much needed bridge between northern circuit and coastal attractions.",
+        "location": "Southern Tanzania",
+        "parks": [{
+            "id": 1,
+            "name": "Saadani National Park",
+            "info": "One gets to relish the palm trees as they sway in a cooling oceanic breeze. White sand and blue water sparkle alluringly beneath the tropical sun, brand Saadani is a splendid place to visit. Traditional dhows sail slowly past, propelled by billowing white sails, whilst Swahili fishermen cast their nets below a brilliant red sunrise.Saadani is where the beach meets the bush. The only wildlife sanctuary in East Africa to boast for an Indian Ocean beachfront, it as well possesses all the attributes that make Tanzania’s tropical coastline and islands very popular with European sun-worshipers. Yet it is also the one place where those idle hours of sunbathing might be interrupted by an elephant strolling past, or a lion coming to drink at the nearby waterhole!",
+            "ecology": "Protected as a game reserve since the 1960s, in 2002 it was expanded to cover twice its former area. The reserve suffered greatly from poaching prior to the late 1990s, but in recent years a marked turnaround has been seen, due to a concerted clampdown on poachers, based on integrating adjacent villages into the conservation drive.Today, a surprisingly wide range of grazers and primates are seen on game drives and walks, among them include giraffes, buffaloes, warthogs, common waterbucks, reedbucks, hartebeests, wildebeests, red duikers, greater kudus, elands, sable antelopes, yellow baboons and velvet monkeys.Herds of up to 30 elephants are encountered with increasing frequency, and several lion prides are inhabitants, together with leopards, spotted hyenas and black-backed jackals. Boat trips on the mangrove-lined Wami River come along with a high chance of sighting hippos, crocodiles and a selection of marine and riverine birds, including the mangrove kingfisher and lesser flamingo. The beaches form one of the last major green turtle breeding sites on mainland Tanzania.",
+            "size": "1,062 sq.km",
+            "founded": 2005,
+            "region": "Tanga",
+            "image": "assets/img/saadani.jpg",
+            "mapfile": "assets/maps/saadani.svg",
+            "activities": [{
+                "info": "One gets to relish the palm trees as they sway in a cooling oceanic breeze. White sand and blue water sparkle alluringly beneath the tropical sun, brand Saadani is a splendid place to visit. Traditional dhows sail slowly past, propelled by billowing white sails, whilst Swahili fishermen cast their nets below a brilliant red sunrise.",
+                "todo": ["Balloon Safaris", "Birding Safaris", "Boating and Canoeing", "Fishing", "Walking Safaris", "Wildlife Safaris", "Camping Safaris", "Luxury Safaris"]
+            }],
+            "when": "Generally accessible all-year round, although the access roads are sometimes impassable during April and May. The best game-viewing is in January and February and from June to August.",
+            "accommodation": "The Park offers various types of accommodation and their facilities for both Residents and Non-residents visiting the Park."
+        }]
+    },
+    {
+        "id": 4,
+        "name": "Western Circuit",
+        "image": "assets/img/west.jpg",
+        "info": "Set below the verdant slopes of the spectacular Usambara and Pare Eastern Arc Mountain ranges and overseen by iconic snow – capped peak of Kilimanjaro, Mkomazi a virgin breathtaking beauty exhibiting unique natural treasures and immense sense of space - adds to the fulfillment of high visitor enjoyment expectations – a much needed bridge between northern circuit and coastal attractions.",
+        "location": "Southern Tanzania",
+        "parks": [{
+                "id": 1,
+                "name": "Gombe National Park",
+                "info": "",
+                "ecology": "",
+                "size": "2,850 sq.km",
+                "founded": 1970,
+                "region": "Kigoma",
+                "image": "assets/img/gombe.jpg",
+                "mapfile": "assets/maps/gombe.svg",
+                "activities": "Game Viewing, Horse Riding, Bird Watching,Forest walks, numerous picnic sites;three or four-day Mt Meru climb - good acclimatisation for Kilimanjaro.",
+                "location": "Location: Northern Tanzania, northeast of Arusha town.",
+                "when": "To climb Mt Meru, June-February although it may rain in November.Best views of Kilimanjaro December-February.",
+                "accommodation": "Two lodges, two rest houses, camp sites, two mountain huts inside the park; more lodges at Usa River outside the park and many hotels and hostels in Arusha town."
+            },
+            {
+                "id": 2,
+                "name": "Mahale National Park",
+                "info": "",
+                "ecology": "",
+                "size": "2,850 sq.km",
+                "founded": 1970,
+                "region": "Kigoma",
+                "image": "assets/img/mahale.jpg",
+                "mapfile": "assets/maps/mahale.svg",
+                "activities": "Game Viewing, Horse Riding, Bird Watching,Forest walks, numerous picnic sites;three or four-day Mt Meru climb - good acclimatisation for Kilimanjaro.",
+                "location": "Location: Northern Tanzania, northeast of Arusha town.",
+                "when": "To climb Mt Meru, June-February although it may rain in November.Best views of Kilimanjaro December-February.",
+                "accommodation": "Two lodges, two rest houses, camp sites, two mountain huts inside the park; more lodges at Usa River outside the park and many hotels and hostels in Arusha town."
+            },
+            {
+                "id": 3,
+                "name": "Rubondo National Park",
+                "info": "",
+                "ecology": "",
+                "size": "2,850 sq.km",
+                "founded": 1970,
+                "region": "Geita",
+                "image": "assets/img/rubondo.jpg",
+                "mapfile": "assets/maps/rubondo.svg",
+                "activities": "Game Viewing, Horse Riding, Bird Watching,Forest walks, numerous picnic sites;three or four-day Mt Meru climb - good acclimatisation for Kilimanjaro.",
+                "location": "Location: Northern Tanzania, northeast of Arusha town.",
+                "when": "To climb Mt Meru, June-February although it may rain in November.Best views of Kilimanjaro December-February.",
+                "accommodation": "Two lodges, two rest houses, camp sites, two mountain huts inside the park; more lodges at Usa River outside the park and many hotels and hostels in Arusha town."
+            },
+            {
+                "id": 4,
+                "name": "Katavi National Park",
+                "info": "",
+                "ecology": "",
+                "size": "2,850 sq.km",
+                "founded": 1970,
+                "region": "Katavi",
+                "image": "assets/img/katavi.jpg",
+                "mapfile": "assets/maps/katavi.svg",
+                "activities": "Game Viewing, Horse Riding, Bird Watching,Forest walks, numerous picnic sites;three or four-day Mt Meru climb - good acclimatisation for Kilimanjaro.",
+                "location": "Location: Northern Tanzania, northeast of Arusha town.",
+                "when": "To climb Mt Meru, June-February although it may rain in November.Best views of Kilimanjaro December-February.",
+                "accommodation": "Two lodges, two rest houses, camp sites, two mountain huts inside the park; more lodges at Usa River outside the park and many hotels and hostels in Arusha town."
+            },
+            {
+                "id": 5,
+                "name": "Saanane Island National Park",
+                "info": "",
+                "ecology": "",
+                "size": "2,850 sq.km",
+                "founded": 1970,
+                "region": "Mwanza",
+                "image": "assets/img/saanane.jpg",
+                "mapfile": "assets/maps/saanane.svg",
+                "activities": "Game Viewing, Horse Riding, Bird Watching,Forest walks, numerous picnic sites;three or four-day Mt Meru climb - good acclimatisation for Kilimanjaro.",
+                "location": "Location: Northern Tanzania, northeast of Arusha town.",
+                "when": "To climb Mt Meru, June-February although it may rain in November.Best views of Kilimanjaro December-February.",
+                "accommodation": "Two lodges, two rest houses, camp sites, two mountain huts inside the park; more lodges at Usa River outside the park and many hotels and hostels in Arusha town."
+            }
+        ]
+    }
+
+]
